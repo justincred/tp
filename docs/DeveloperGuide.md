@@ -504,14 +504,14 @@ The activity diagram below summarizes the process of scheduling a meeting:
 
 The sequence diagram below illustrates the interactions within the `Logic` component with execute("reschedule 1 mi/1 md/2024-05-05 mt/09:00") API call as an example.
 
-<puml src="path/to/RescheduleSequenceDiagram.puml"/>
+<puml src="diagrams/RescheduleSequenceDiagram.puml"/>
 
 
 #### Cancel meeting implementation
 
 The sequence diagram below illustrates the interactions within the `Logic` component with execute("cancel 1 mi/1) API call as an example.
 
-<puml src="path/to/CancelSequenceDiagram.puml"/>
+<puml src="diagrams/CancelSequenceDiagram.puml"/>
 
 ### \[Proposed\] Data archiving
 
